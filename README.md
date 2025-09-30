@@ -176,11 +176,8 @@
 | 174 | [What is a conditional operator in javascript](#what-is-a-conditional-operator-in-javascript) |
 | 175 | [Can you apply chaining on conditional operator](#can-you-apply-chaining-on-conditional-operator) |
 | 177 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype) |
-| 179 | [What is the freeze method]
-| (#what-is-the-freeze-method) |
 | 180 | [What is the purpose of the freeze method](#what-is-the-purpose-of-the-freeze-method) |
-| 181 | [Why do I need to use the freeze method]
-| (#why-do-i-need-to-use-the-freeze-method) |
+| 181 | [Why do I need to use the freeze method](#why-do-i-need-to-use-the-freeze-method) |
 | 183 | [How to convert a string to title case with javascript](#how-to-convert-a-string-to-title-case-with-javascript) |
 | 185 | [What are various operators supported by javascript](#what-are-various-operators-supported-by-javascript) |
 | 186 | [What is a rest parameter](#what-is-a-rest-parameter) |
