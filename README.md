@@ -177,10 +177,10 @@
 | 175 | [Can you apply chaining on conditional operator](#can-you-apply-chaining-on-conditional-operator) |
 | 177 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype) |
 | 179 | [What is the freeze method]
-(#what-is-the-freeze-method) |
+| (#what-is-the-freeze-method) |
 | 180 | [What is the purpose of the freeze method](#what-is-the-purpose-of-the-freeze-method) |
 | 181 | [Why do I need to use the freeze method]
-(#why-do-i-need-to-use-the-freeze-method) |
+| (#why-do-i-need-to-use-the-freeze-method) |
 | 183 | [How to convert a string to title case with javascript](#how-to-convert-a-string-to-title-case-with-javascript) |
 | 185 | [What are various operators supported by javascript](#what-are-various-operators-supported-by-javascript) |
 | 186 | [What is a rest parameter](#what-is-a-rest-parameter) |
@@ -285,7 +285,6 @@
 | 290 | [What is the difference between java and javascript](#what-is-the-difference-between-java-and-javascript) |
 | 291 | [Does JavaScript support namespaces](#does-javascript-support-namespaces) |
 | 292 | [How do you declare a namespace](#how-do-you-declare-a-namespace) |
-| 293 | [How do you invoke javascript code in an iframe from the parent page]
 | 297 | [What is jQuery](#what-is-jquery) |
 | 298 | [What is V8 JavaScript engine](#what-is-v8-javascript-engine) |
 | 299 | [Why do we call javascript as dynamic language](#why-do-we-call-javascript-as-dynamic-language) |
